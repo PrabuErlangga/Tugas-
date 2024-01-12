@@ -1,3 +1,6 @@
+#PRABU CAESAR ERLANGGA
+#51422290
+#2IA26
 class Node:
     def __init__(self, key):
         self.key = key
